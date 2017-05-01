@@ -4,7 +4,8 @@ import App from './components';
 import HomePage from './components/Home';
 import AboutPage from './components/About';
 import CoursesPage from './components/Course';
-import ManageCoursePage from './components/Course/ManageCoursePage';
+import ManageCoursePage from './components/Course/ManageCoursePage';//eslint-disable-line import/no-named-as-default
+
 
 
 export default (
